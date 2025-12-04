@@ -1,0 +1,34 @@
+Project: ARTEMIS – Subject Trial 01
+File type: Clinical Research Log – Final
+Date: 2025‑03‑11
+Author: Dr. Marcus Vale (Lead Investigator, Neurogenetics Division)
+
+Subject ID: ART‑01
+Baseline status: Healthy adult volunteer, no neurological history, cleared by screening protocol v1.2.
+
+Summary:
+First-generation ARTEMIS vector (NV-ART-α1) administered via intravenous infusion under standard monitoring conditions. No acute infusion reaction observed. Subject remained conscious and oriented throughout administration and immediate post‑infusion period (T+0–2h).
+
+Observations (T+0–24h):
+
+T+3h: Subject reports mild frontal headache (2/10). No visual disturbances, no nausea.
+
+T+7h: Subject describes “pressure behind the eyes” and difficulty focusing on fixed objects for more than a few seconds. Pupils equal and reactive, no nystagmus.
+
+T+12h: Routine fMRI performed. Automated analysis flags low‑level anomalous activation clusters in visual cortex and adjacent association areas. Patterns do not match standard visual stimulus library. Marked as “artifact – review pending” by imaging software.
+
+T+18h: Vitals within normal limits. Subject denies pain but reports “afterimages” lingering longer than usual when lights are switched off.
+
+Investigator notes:
+At this stage, effects are within tolerable limits and easily attributed to nonspecific post‑infusion reactions. However, the activation pattern in the visual cortex is unusual enough to warrant a manual re‑review by imaging staff. Logging full dataset to archive rather than relying solely on automated artifact classification.
+
+Action items:
+
+Request secondary manual read of fMRI series ART‑01_T12h from Imaging (priority: routine).
+
+Schedule extended visual field and pattern recognition testing at T+36h if subject remains stable.
+
+Include this log in the first safety summary packet for internal review.
+
+Internal flag:
+If similar activation pattern recurs in subsequent subjects, reclassify as potential early signature of ARTEMIS vector engagement rather than artifact and escalate to protocol oversight.
