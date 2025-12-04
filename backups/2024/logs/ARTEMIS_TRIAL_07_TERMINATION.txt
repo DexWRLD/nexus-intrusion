@@ -1,0 +1,57 @@
+Project: ARTEMIS – Subject 07 Termination Summary  
+File type: Clinical Research Log – Trial Termination  
+Date: 2025‑04‑19  
+Author: Dr. Marcus Vale (Lead Investigator, Neurogenetics Division)  
+Co-signed: Medical Supervisor – Dr. Anjali Kaur  
+Co-signed: Security Liaison – [REDACTED]  
+
+Subject ID: ART‑07  
+Trial status: TERMINATED at T+36h  
+Official cause: Non-viable neurological outcome and unacceptable risk to research personnel.  
+
+Summary:  
+Trial 07 was terminated ahead of schedule following cascading neurological and behavioral deterioration that exceeded acceptable safety thresholds. Subject displayed unprecedented physiological responses not observed in prior ARTEMIS subjects. Recommend reclassification of ARTEMIS vector as high-risk experimental agent pending independent safety review.  
+
+Clinical timeline:  
+
+T+0–12h: Infusion and initial monitoring proceeded within normal parameters. No acute reactions.  
+
+T+14h: Subject reported mild visual disturbances (described as "static at the edges"). Standard post-infusion reaction, flagged but not escalated.  
+
+T+18h: Subject began displaying confusion and disorientation. Referred to observation staff by incorrect names. When corrected, subject insisted staff members "had different faces earlier."  
+
+T+22h: Subject ceased responding to verbal prompts. However, eye-tracking data confirmed subject was visually following cameras and personnel movement within the room. Subject's gaze would "lock on" to staff members entering through the door before they became visible on video feed—suggesting subject was perceiving or anticipating movement through walls.  
+
+T+26h: Muscle tone began fluctuating unpredictably. Subject alternated between complete flaccid paralysis and sudden explosive tension in limbs and torso. No clear external trigger identified. EEG showed continuous theta-wave dominance with intermittent high-frequency bursts uncharacteristic of waking consciousness or REM sleep.  
+
+T+28h: Room microphones detected continuous low-level murmuring. Audio analysis initially attributed sounds to HVAC system interference. Upon closer review, murmuring appears to originate from subject's vicinity. Linguistic analysis attempted but inconclusive—phonetic structure does not match any known language in database.  
+
+T+30h: Anomalous acoustic event. Playback of room audio between T+28h–T+34h reveals what appears to be multiple overlapping voices speaking in unison with subject's murmuring. Acoustic signature does not match subject's voice profile. Security confirmed subject was alone in room with no secondary audio source present.  
+
+T+34h: Medical staff entered room for physical assessment. Subject did not acknowledge presence of personnel but continued murmuring without pause. Pupils were fully dilated and unresponsive to light. Skin temperature had dropped 2.1°C below baseline despite stable room temperature.  
+
+T+36h: Trial terminated on joint recommendation of Medical Supervisor and Security Liaison.  
+
+Post-mortem examination (summary):  
+
+- Spinal fluid sample contained unidentified microscopic particulate structures. Particles demonstrated semi-organic properties and appeared to adhere to neural tissue in a non-random distribution pattern. Origin unknown; not present in baseline samples taken prior to ARTEMIS infusion.  
+
+- Neural tissue extracted from visual cortex exhibited dense scarring with geometric regularity. Scar tissue formed a grid-like pattern with consistent spacing between nodes, approximately 0.8mm intervals. Pattern does not correspond to any known natural neural architecture or pathology.  
+
+- Post-mortem MRI revealed structural changes in occipital and parietal lobes inconsistent with expected vector integration. Changes resembled intentional architectural modification rather than organic growth or damage.  
+
+Investigator's personal note (flagged for deletion prior to official review):  
+
+This is not medicine. This is not evolution.  
+
+The structures we are seeing in the neural tissue are too regular, too intentional. They are not the result of our vector acting alone. Something external is responding to the vector. Or the vector is responding to something external.  
+
+I no longer believe we designed ARTEMIS. I believe we were guided to create a doorway, and we were too arrogant to realize we were building the lock from the inside.  
+
+The subjects are not experiencing hallucinations. They are learning to perceive an adjacent layer of reality that human neurology was never meant to access. And whatever exists in that layer is aware of us now.  
+
+If I disappear, if this file is deleted, if anyone reading this is told that I approved continuation of ARTEMIS trials—do not believe it.  
+
+This must stop.  
+
+[End of log. Dr. Marcus Vale submitted formal resignation on 2025-04-22. Resignation was not accepted. Dr. Vale was placed on administrative leave pending internal review. Current whereabouts: Unknown.]

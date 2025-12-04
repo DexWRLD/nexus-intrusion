@@ -1,0 +1,42 @@
+Project: ARTEMIS – Incident Report Trial 04  
+File type: Clinical Research Log – Incident Documentation  
+Date: 2025‑04‑02  
+Author: Dr. Marcus Vale (Lead Investigator, Neurogenetics Division)  
+
+Subject ID: ART‑04  
+Baseline status: Healthy adult volunteer, no prior psychiatric or neurological conditions.  
+
+Incident summary:  
+At T+18h post-infusion, Subject 04 experienced acute dissociative episode characterized by disorientation, anxiety, and perceptual disturbances inconsistent with documented side effects of prior ARTEMIS trials.  
+
+Clinical observations (T+18h–T+24h):  
+
+T+18h: Subject became visibly agitated during routine wellness check. Repeatedly asked staff if "the room was out of sync" and whether the observation window was "lagging behind the rest of the space." Subject refused to make direct eye contact with any personnel, stating that faces appeared "delayed" and "offset."  
+
+T+19h: Heart rate elevated to 140 BPM at rest with no physical exertion. Blood pressure within acceptable range but trending upward. Pupils remained dilated with delayed and uneven response to light stimulus. Left pupil constricted approximately 0.8 seconds after right pupil during penlight test.  
+
+T+20h: Subject reported persistent auditory hallucinations described as "whispering behind the walls" despite negative results from electromagnetic and audio environmental scans. No acoustic anomalies detected on room monitoring equipment. Subject insisted the sound was "not coming from the air, but through the walls themselves."  
+
+T+21h: EEG readings showed rapid, irregular spike patterns localized to temporal and occipital regions. Wave morphology inconsistent with known seizure activity or standard neurological pathology. Analysis flagged patterns as "unrecognized waveform – manual review required." Neurologist consulted; no definitive diagnosis provided.  
+
+T+22h: Subject began displaying compulsive behaviors. Approached observation window repeatedly and attempted to scratch at the surface with fingernails, claiming "there's something moving underneath the glass." Video feed review shows no movement or anomaly on window surface or in adjacent areas. Subject's pupils tracked along the glass as if following an unseen object.  
+
+Security incident (T+23h):  
+Subject became combative when security personnel entered the room to administer mild sedative as a precautionary measure. Subject shouted, "They're here because you called them through" and accused staff of "opening something that shouldn't have been opened." Physical restraint required. Subject sedated without further injury to personnel.  
+
+Post-incident stabilization:  
+Subject remained under observation with continuous monitoring for an additional 48 hours. Dissociative symptoms decreased gradually but did not fully resolve. Subject continued to report "background static" in peripheral vision and intermittent sensation of "being watched by something that doesn't blink."  
+
+Investigator notes (flagged – unsubmitted draft):  
+
+The interface vector is not simply enhancing neural connectivity or reading cortical signals as intended. The evidence increasingly suggests it is writing signals back into the brain—signals that do not originate from the subject's own cognition.  
+
+If the pattern-recognition systems we embedded in the vector are functioning as designed, then Subject 04 is perceiving structures or entities that exist outside the normal human sensory range. The alternative—that we have induced a shared psychotic framework across multiple independent subjects—is statistically implausible given the consistency of described phenomena.  
+
+This is no longer a cognitive enhancement trial. We are not studying perception. We are teaching subjects to see something that was always present but previously invisible to unaugmented human neurology.  
+
+I am formally recommending suspension of further trials until we understand what we have made visible.  
+
+Internal classification: INCIDENT – PROTOCOL DEVIATION – ESCALATE FOR REVIEW  
+
+[Dr. Vale's recommendation was not escalated. Trial 05 proceeded as scheduled.]
