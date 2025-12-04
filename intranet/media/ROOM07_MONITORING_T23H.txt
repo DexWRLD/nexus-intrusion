@@ -1,0 +1,15 @@
+Room 07 – Continuous Monitoring Excerpt
+Trial: ARTEMIS Subject 07
+Time index: T+23h 12m – T+23h 19m
+
+[00:14] Subject: "Doctor? The walls keep… breathing."
+[00:27] Vale: "The walls are not moving. Focus on my voice. What are you seeing right now?"
+[00:35] Subject: "Not seeing. Hearing. It's like… something behind them is trying to match my breathing and getting it wrong."
+[01:02] [Unidentified sound – soft scraping, not matching subject movement visible on video.]
+[01:19] Subject: "They're closer when the lights flicker. You turned the lights off."
+[01:22] Vale: "The lights are stable. There was no flicker."
+[01:48] Subject: "Can you hear it now? It's learning the rhythm."
+[02:11] [Monitoring note: No anomalous audio detected during live review. Operator reports "feeling watched" despite no visual anomaly.]
+
+Analyst annotation (added later):
+Playback through spectral view shows a repeating pattern between 4–6 kHz, not audible in real time. Pattern resembles distorted human speech but no clear words identified. Further analysis postponed due to resource reallocation.
